@@ -53,8 +53,8 @@ Contributions are welcome! If you have a question or a better solution to an exi
 ## 📬 Contact
 If you have any questions or want to collaborate, feel free to reach out.
 
-* **Maintained by:** [Your Name]
-* **LinkedIn:** [Your Profile Link]
+* **Maintained by:** [Abdullah-Al-Mahmud]
+* **LinkedIn:** [https://www.linkedin.com/in/abdullah-al-mahmud-357566233/]
 
 ---
 *Happy Coding and Best of Luck with your interviews!*
